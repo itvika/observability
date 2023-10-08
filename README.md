@@ -1,7 +1,7 @@
 # observability
 
 Go to the folder observability
-### How to work with Grafana
+## Grafana
     cd grafana
 
 #### Build Image of grafana
