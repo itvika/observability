@@ -1,4 +1,4 @@
-# observability
+# Observability
 
 Go to the folder observability
 ## Grafana
